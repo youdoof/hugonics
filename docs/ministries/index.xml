@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ministries on First Bible Baptist Church</title>
-    <link>https://example.org/ministries/</link>
+    <link>https://youdoof.github.io/hugonics/ministries/</link>
     <description>Recent content in Ministries on First Bible Baptist Church</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/ministries/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://youdoof.github.io/hugonics/ministries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADP Sports</title>
-      <link>https://example.org/ministries/adp-sports/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/adp-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/adp-sports/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/adp-sports/</guid>
       <description>The ADP Sports park is adjacent to the parking lot, and host to a medley of sports ministries.
 Mighty Mites Baseball PeeWee Flag Football Happy 5 Soccer ADP Sports has been awesome!
 ADP Sports Website</description>
@@ -19,28 +19,28 @@ ADP Sports Website</description>
     
     <item>
       <title>Daughters of the King</title>
-      <link>https://example.org/ministries/daughters-of-the-king/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/daughters-of-the-king/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/daughters-of-the-king/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/daughters-of-the-king/</guid>
       <description>The ladies meet every so-often to talk about all the things.</description>
     </item>
     
     <item>
       <title>Kindred</title>
-      <link>https://example.org/ministries/kindred/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/kindred/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/kindred/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/kindred/</guid>
       <description>Kindred Men meet every so often to talk about manly things.</description>
     </item>
     
     <item>
       <title>Primed Youth</title>
-      <link>https://example.org/ministries/primed-youth/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/primed-youth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/primed-youth/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/primed-youth/</guid>
       <description>Primed youth is a group of youthly kiddos doing youthly things.</description>
     </item>
     

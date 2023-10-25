@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First Bible Baptist Church</title>
-    <link>https://example.org/</link>
+    <link>https://youdoof.github.io/hugonics/</link>
     <description>Recent content on First Bible Baptist Church</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://youdoof.github.io/hugonics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADP Sports</title>
-      <link>https://example.org/ministries/adp-sports/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/adp-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/adp-sports/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/adp-sports/</guid>
       <description>The ADP Sports park is adjacent to the parking lot, and host to a medley of sports ministries.
 Mighty Mites Baseball PeeWee Flag Football Happy 5 Soccer ADP Sports has been awesome!
 ADP Sports Website</description>
@@ -19,38 +19,38 @@ ADP Sports Website</description>
     
     <item>
       <title>Daughters of the King</title>
-      <link>https://example.org/ministries/daughters-of-the-king/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/daughters-of-the-king/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/daughters-of-the-king/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/daughters-of-the-king/</guid>
       <description>The ladies meet every so-often to talk about all the things.</description>
     </item>
     
     <item>
       <title>Kindred</title>
-      <link>https://example.org/ministries/kindred/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/kindred/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/kindred/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/kindred/</guid>
       <description>Kindred Men meet every so often to talk about manly things.</description>
     </item>
     
     <item>
       <title>Post</title>
-      <link>https://example.org/blog/a/</link>
+      <link>https://youdoof.github.io/hugonics/blog/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/a/</guid>
+      <guid>https://youdoof.github.io/hugonics/blog/a/</guid>
       <description>Today I was thinking&amp;hellip; I really should look into how Hugo works.
 does it format things? does it need CSS? wow I have a lot to learn, yet also have a fair amount figured out </description>
     </item>
     
     <item>
       <title>Previous Site Layout</title>
-      <link>https://example.org/blog/previous-site-map/</link>
+      <link>https://youdoof.github.io/hugonics/blog/previous-site-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/previous-site-map/</guid>
+      <guid>https://youdoof.github.io/hugonics/blog/previous-site-map/</guid>
       <description>Home Page Nav Bar Home About Our Journey Statement of faith, what we believe Discover First Bible Service Times &amp;amp; Location Leadership Team Ministries Daughters of the King (Women) KINDRED (Men) Primed (Youth) Investors (60&amp;rsquo;s) ADP Sports Etc. Sermons (Blog) General Info Welcome Footer 1441 SE Adams Dairy Parkway, Blue Springs, MO 64014
 Church Office: (816) 220-2337
 Lead Pastor: Mark Brown
@@ -59,19 +59,19 @@ Social Media Links: Facebook, Twitter/X?, Instagram, YouTube</description>
     
     <item>
       <title>Primed Youth</title>
-      <link>https://example.org/ministries/primed-youth/</link>
+      <link>https://youdoof.github.io/hugonics/ministries/primed-youth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ministries/primed-youth/</guid>
+      <guid>https://youdoof.github.io/hugonics/ministries/primed-youth/</guid>
       <description>Primed youth is a group of youthly kiddos doing youthly things.</description>
     </item>
     
     <item>
       <title>references</title>
-      <link>https://example.org/blog/2023-10-21-references/</link>
+      <link>https://youdoof.github.io/hugonics/blog/2023-10-21-references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/2023-10-21-references/</guid>
+      <guid>https://youdoof.github.io/hugonics/blog/2023-10-21-references/</guid>
       <description>A list of references
 Pico Css Hugo Mini Course Hugo Documentation </description>
     </item>
