@@ -1,8 +1,10 @@
 {{ define "main" }}
-<main>
+<section>
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  <section>{{ range .Pages }} {{ .Render "summary" }} {{ end }}</section>
-</main>
+  {{ range .Pages }}
+  <article>{{ .Render "summary" }}</article>
+  {{ end }}
+</section>
 {{ end }}
